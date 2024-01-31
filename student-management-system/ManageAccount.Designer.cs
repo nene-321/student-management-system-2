@@ -1,6 +1,6 @@
 ﻿namespace student_management_system
 {
-    partial class Form2
+    partial class ManageAccount
     {
         /// <summary>
         /// Required designer variable.
